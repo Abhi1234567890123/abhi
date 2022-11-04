@@ -45,3 +45,5 @@
 https://myapprovalhcl.eds-appase-dev.appserviceenvironment.net/Design/WebMethodCollection.aspx/CountApprovalLeftForApplicationCollection
 
 31.09 
+    
+     JSONError: Unexpected token '<' at 1:1 <!DOCTYPE html> ^
